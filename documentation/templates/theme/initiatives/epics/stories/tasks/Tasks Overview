@@ -1,0 +1,26 @@
+Task Title: Design Login Page UI
+User Story: As a user, I want to be able to log in to the system using my credentials so that I can access my account information.
+Description: Design the user interface for the login page. The login page should have fields for the user's email and password, as well as a "forgot password" link. The page should also include a "create new account" link for new users. The acceptance criteria include having the design reviewed and approved by the product owner, and ensuring that the design is consistent with the organization's branding guidelines.
+Effort Estimate: 4 hours
+Assigned To: Mithil Patel
+Priority: High
+Status: Not started
+Notes: The design should be mobile-responsive and accessible.
+
+Task Title: Implement Login Page Functionality
+User Story: As a user, I want to be able to log in to the system using my credentials so that I can access my account information.
+Description: Implement the backend functionality for the login page. This includes validating user credentials, redirecting the user to the correct page after login, and handling errors such as incorrect passwords. The acceptance criteria include passing all relevant test cases, and ensuring that the functionality is scalable and maintainable.
+Effort Estimate: 6 hours
+Assigned To: Hehjun Lim
+Priority: High
+Status: In progress
+Notes: This task has a dependency on the design being approved by the product owner.
+
+Task Title: Write Unit Tests for Login Page
+User Story: As a user, I want to be able to log in to the system using my credentials so that I can access my account information.
+Description: Write unit tests to ensure that the login page functionality works as expected. The tests should cover scenarios such as valid and invalid credentials, error handling, and redirection. The acceptance criteria include passing all relevant test cases and ensuring that the tests are maintainable and up-to-date.
+Effort Estimate: 3 hours
+Assigned To: Both Members of Group
+Priority: Medium
+Status: Not started
+Notes: This task can be started once the implementation of the login page functionality is complete.
