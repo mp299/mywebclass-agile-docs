@@ -14,12 +14,13 @@ As a teacher at MyWebClass, I want to implement a CI/CD process for improved wor
 Dependencies:
 
 Availability of resources for Agile implementation
+Will use: Collaboration tools: Tools like Slack, Zoom, and Google Drive facilitate collaboration between team members, allowing them to share ideas, documents, and feedback in real-time.
 Cooperation and participation from teaching staff
 Risks:
 
 Resistance from teaching staff to Agile implementation
 Limited resources for implementation
-Estimated Effort: 80 hours
+Estimated Effort: 60 hours
 
 Business Value: Improved learning outcomes and increased efficiency in development process.
 
