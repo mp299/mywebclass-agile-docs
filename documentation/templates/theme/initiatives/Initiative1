@@ -54,3 +54,10 @@ Team:
 
 UI/UX Designer
 Frontend Developer
+
+As per the NJ Web-Presence Guidelines, the website should follow certain design and accessibility standards to ensure that it is accessible to all users. To meet these guidelines, the following measures will be implemented:
+
+Use of appropriate color contrast ratios for text and background to ensure readability for users with visual impairments.
+Task Title: Ensure Color Contrast Ratios
+User Story: As a user, I want to be able to read the text on the homepage, so that I can understand the content without any difficulties.
+Description: The UI/UX Designer will ensure that the color contrast ratios for text and background meet the NJ Web-Presence Guidelines. The task will involve reviewing the color palette and making necessary adjustments to ensure readability for all users.
