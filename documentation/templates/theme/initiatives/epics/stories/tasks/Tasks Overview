@@ -13,7 +13,7 @@ Description: Implement the backend functionality for the login page. This includ
 Effort Estimate: 6 hours
 Assigned To: Hehjun Lim
 Priority: High
-Status: In progress
+Status: Not started
 Notes: This task has a dependency on the design being approved by the product owner.
 
 Task Title: Write Unit Tests for Login Page
