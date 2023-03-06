@@ -13,4 +13,10 @@
   * Project metrics to continuously improve the management of the project
 
 ## Test plan
-How will this be tested?
+
+Use a tool like Selenium to perform end-to-end testing of the website's features, such as the search function and user registration process.
+Use a tool like JMeter to test the website's performance under heavy traffic.
+Use a tool like Jenkins to automate the deployment process and ensure that the website is deployed correctly.
+Use a tool like SonarQube to perform code analysis and identify any code quality issues.
+Use a tool like Postman to test the website's APIs and ensure that they are functioning correctly.
+Use a tool like BrowserStack to test the website on multiple browsers and devices to ensure that it is responsive and user-friendly across different platforms.
